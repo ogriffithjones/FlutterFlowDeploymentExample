@@ -42,6 +42,7 @@ Now you can *"Start new build"*! This will take around 10 mins and at the end yo
 #### Code Signing
 
 [Setting up iOS code signing with Code Magic](https://docs.codemagic.io/code-signing/ios-code-signing/) *(I recommend setting up auto code signing to automate this process)*
+
 [Setting up Andriod code signing with Code Magic](https://docs.codemagic.io/code-signing/android-code-signing/)
 
 **I have to complete this step of the process for publishing**
